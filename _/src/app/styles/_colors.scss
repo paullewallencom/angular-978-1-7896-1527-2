@@ -1,0 +1,28 @@
+$accent:#009988;
+$body-bg: #101010;
+$body-color: #bbbbbb;
+$alt-bg: #202020;
+$alt-color: #f2f2f2;
+
+$accent:blue;
+$body-bg: #f2f2f2;
+$body-color: #202020;
+$alt-bg: #fcfcfc;
+$alt-color: #202020;
+
+.accent-color {
+  color: $accent;
+}
+
+.angular-color {
+  color: #dd0031;
+}
+
+.react-color {
+  color: #61dafb;
+}
+
+.vue-color {
+  color: #008000;
+}
+
